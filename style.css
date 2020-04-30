@@ -48,7 +48,7 @@ p{
 }
 
 form{
- padding:20px 20px 40px;
+ padding:20px 20px 40px 0;
 font-family: 'Merriweather', serif;
  color: #40514E;
 line-height: 2;
