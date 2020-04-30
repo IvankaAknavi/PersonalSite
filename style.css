@@ -48,7 +48,10 @@ p{
 }
 
 .Formular{
- padding:50px 0 20px;
+ padding:50px 0 50px;
+font-family: 'Merriweather', serif;
+ color: #40514E;
+line-height: 2;
 }
 
 .top-container{
