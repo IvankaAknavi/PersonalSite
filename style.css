@@ -48,9 +48,10 @@ p{
 }
 
 My contact{
-width:50%;
-  margin: 100px auto;
-  text-align:auto;
+	width:50%;
+ 	margin: 100px auto;
+  	text-align:auto;
+	font-family: 'Merriweather', serif;
 }
 
 .top-container{
